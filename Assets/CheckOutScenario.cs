@@ -14,7 +14,7 @@ public class CheckOutScenario : MonoBehaviour
     void Update()
     {
         if (transform.position.y <= -10) {
-            transform.position = new Vector3(4.26f, 2.55f, 4.01f);
+            transform.position = new Vector3(3f, 3f, -5f);
         }
     }
 }

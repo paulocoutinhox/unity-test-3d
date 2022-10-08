@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!13 &1
 InputManager:
+InputManager:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Axes:
@@ -293,3 +294,4 @@ InputManager:
     type: 0
     axis: 0
     joyNum: 0
+  m_UsePhysicalKeys: 0
